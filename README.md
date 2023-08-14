@@ -20,6 +20,7 @@ Features include:
 ## How to Run
 
 - https://nekoflixx.vercel.app - you can visit here #1
+
 So you would like to self-host. This app is made of two parts:
  - The proxy
  - The client
